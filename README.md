@@ -10,4 +10,4 @@ The Visualization through dashboard will empower business owners on
 
 ## 1. Order_and_customer_Review_metrics
 
-<img src="Power-Bi-Market-Analysis/Dashboard/Order_and_customer_Reveiws_metrics.PNG" width="1000" height="800">
+<img src="Dashboard/Order_and_customer_Reveiws_metrics.PNG" width="1000" height="800">
